@@ -1,0 +1,14 @@
+{
+    "age": 19,
+    "balance": 30,
+    "cardNumber": "442000",
+    "costs": 0,
+    "drugs": [
+        "999感冒灵"
+    ],
+    "gender": "女",
+    "id": 2,
+    "name": "页此",
+    "status": 2,
+    "symp": "该患者身心健康，继续保持"
+}

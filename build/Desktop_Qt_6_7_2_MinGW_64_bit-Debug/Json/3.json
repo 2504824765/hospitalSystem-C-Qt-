@@ -1,0 +1,13 @@
+{
+    "age": 3,
+    "balance": 0,
+    "cardNumber": "123456",
+    "costs": 0,
+    "drugs": [
+    ],
+    "gender": "未知",
+    "id": 3,
+    "name": "测试",
+    "status": 0,
+    "symp": "empty"
+}
